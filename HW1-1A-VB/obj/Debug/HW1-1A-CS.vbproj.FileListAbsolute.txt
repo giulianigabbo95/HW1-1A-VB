@@ -1,0 +1,12 @@
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\bin\Debug\HW1_VB.exe.config
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\bin\Debug\HW1_VB.exe
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\bin\Debug\HW1_VB.pdb
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\bin\Debug\HW1_VB.xml
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\obj\Debug\HW1-1A-CS.vbproj.AssemblyReference.cache
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\obj\Debug\HW1_VB.Finestra.resources
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\obj\Debug\HW1_VB.Resources.resources
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\obj\Debug\HW1-1A-CS.vbproj.GenerateResource.cache
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\obj\Debug\HW1-1A-CS.vbproj.CoreCompileInputs.cache
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\obj\Debug\HW1_VB.exe
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\obj\Debug\HW1_VB.xml
+C:\Users\Gahab\Desktop\Nuova cartella\HW1\Programmi\HW1_VB\HW1-1A-CS\obj\Debug\HW1_VB.pdb

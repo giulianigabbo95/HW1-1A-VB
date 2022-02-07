@@ -1,0 +1,12 @@
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\bin\Debug\HW1_VB.exe.config
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\bin\Debug\HW1_VB.exe
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\bin\Debug\HW1_VB.pdb
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\bin\Debug\HW1_VB.xml
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\obj\Debug\HW1_VB.vbproj.AssemblyReference.cache
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\obj\Debug\HW1_VB.Finestra.resources
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\obj\Debug\HW1_VB.Resources.resources
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\obj\Debug\HW1_VB.vbproj.GenerateResource.cache
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\obj\Debug\HW1_VB.vbproj.CoreCompileInputs.cache
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\obj\Debug\HW1_VB.exe
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\obj\Debug\HW1_VB.xml
+C:\Users\Gahab\source\repos\HW1_VB\HW1_VB\obj\Debug\HW1_VB.pdb
